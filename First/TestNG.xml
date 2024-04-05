@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+    <listeners>
+        <listener class-name="Test.Listeners"></listener>
+    </listeners>
+    <test name="test">
+        <classes>
+            <class name="Test.Task"></class>
+        </classes>
+    </test>
+</suite>
